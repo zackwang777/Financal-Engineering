@@ -1,1 +1,1 @@
-# Financal-Engineering-Projects
+# Financal Engineering Projects
